@@ -1,3 +1,3 @@
 # auto tests course
 
-#####course homework will be stored here
+##### course homework will be stored here

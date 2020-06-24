@@ -1,2 +1,3 @@
-# auto_tests_course
-homework
+# auto tests course
+
+#####course homework will be stored here
